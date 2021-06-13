@@ -8,7 +8,7 @@ This is a web application which converts English text to banana language
 
 ## Screenshot
 
-![Screenshot](img/screenshot.png)
+![Screenshot](img/screenshot.PNG)
 
 ## Note
 The API used allows only 5 translations per hour.
