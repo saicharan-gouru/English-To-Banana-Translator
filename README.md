@@ -11,9 +11,9 @@ This is a web application which converts English text to banana language
 ![Screenshot](img/screenshot.PNG)
 
 # Live Project
- TO view the live application [click here](https://gsc-bananatranslator.netlify.app/)
+ T0 view the application [click here](https://gsc-bananatranslator.netlify.app/)
 
- This application deployed using *Netlify*
+ This application is deployed using *Netlify*
 
 ## Note
 The API used allows only 5 translations per hour.
